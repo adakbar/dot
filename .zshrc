@@ -108,6 +108,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias fuck='sudo $(fc -ln -1)'
 alias vim="nvim"
 alias vir="nvr"
 alias vrc="vim ~/.config/nvim/init.vim"
